@@ -1,4 +1,4 @@
-# bookdown
+# bookdown ok
 
 [![Build Status](https://travis-ci.org/rstudio/bookdown.svg)](https://travis-ci.org/rstudio/bookdown) ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/bookdown)
 
